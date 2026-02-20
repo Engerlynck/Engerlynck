@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,R,mariadb,mysql,html" />
+  <img src="https://skillicons.dev/icons?i=python,r,bash,git,obsidian,html" />
 </p>
 
 <hr>
