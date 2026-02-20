@@ -6,8 +6,8 @@
 
 ### I'm Engerlynck! Welcome to my github. I'm a full-time plant researcher focusing on pome fruits, passionate about building functional applications to aid pear and apple breeding.
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
 
 <br>
 
