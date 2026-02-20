@@ -28,3 +28,11 @@
 
 <hr>
 
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python, R, mariadb, mysql, html" />
+</p>
+
+<hr>
